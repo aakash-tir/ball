@@ -5,4 +5,4 @@ This is the assignment 1 for cosc413 in UBCO. We make a small application where 
 
 https://github.com/user-attachments/assets/e29e9abd-2c64-46a8-8a5d-930afa7a7764
 
-hi
+hello
